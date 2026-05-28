@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+A match-3 inspired game created for the js13kGames competition, just click and drag jewels (or touch on mobile devices) and move to create horizontally or vertically matches of the same type. The game has 13 levels and the win is achieved when reaching score 13000.
